@@ -1,5 +1,6 @@
 # complete-web-berita-php
 Website Berita Bola
+![Gambar Website](public/gambar-berita/webberita.JPG)
 
 ✨ Fitur Utama
 Dapat memperbaharui atau menambahkan berita
